@@ -1,0 +1,67 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Объединение золотодобытчиков «G-PEC»",
+            "description": "Самопровозглашённая организация «G-PEC» объединила ведущие золотодобывающие компании и обещала резко сократить добычу золота. Инвесторы в шоке: золото взлетает, а облигации нервничают.",
+            "impact": {
+                "rubleCash": "neutral",
+                "stocksGrowth": "neutral",
+                "stocksValue": "neutral",
+                "venture": "neutral",
+                "bondsHYRuble": "negative",
+                "bondsHYCurr": "negative",
+                "bondsIGRuble": "negative",
+                "bondsIGCurr": "negative",
+                "bitcoin": "neutral",
+                "gold": "positive",
+                "oilFutures": "neutral",
+                "forexUSD": "neutral",
+                "reit": "neutral"
+            },
+            "explanation": "Золото растёт, потому что все ждут дефицита из-за снижения добычи. Инвесторы забирают деньги из облигаций (боязнь роста инфляции), а остальные активы остаются без особых изменений."
+        },
+        {
+            "id": 2,
+            "title": "Кофейное чудо",
+            "description": "Бум на здоровый образ жизни породил «суперфуд-кофе» с витаминами. Ряд компаний быстро выходит на IPO, а фьючерсы на кофе бьют рекорды. Все хотят чашечку этого чудо-напитка!",
+            "impact": {
+                "rubleCash": "neutral",
+                "stocksGrowth": "positive",
+                "stocksValue": "neutral",
+                "venture": "positive",
+                "bondsHYRuble": "negative",
+                "bondsHYCurr": "negative",
+                "bondsIGRuble": "neutral",
+                "bondsIGCurr": "neutral",
+                "bitcoin": "neutral",
+                "gold": "neutral",
+                "oilFutures": "neutral",
+                "forexUSD": "neutral",
+                "reit": "neutral"
+            },
+            "explanation": "«Суперфуд-кофе» обещает колоссальные прибыли молодым компаниям, поэтому акции роста и венчурные инвестиции подскакивают. Часть инвесторов выходит из облигаций (особенно рискованных), чтобы вложиться в новые проекты."
+        },
+        {
+            "id": 3,
+            "title": "Роботы в офисах",
+            "description": "Матёрые IT-гиганты объявили, что роботы теперь ведут переговоры и даже делают бухгалтерию. Арендовать офисы становится выгоднее — в них «живёт» больше роботов, чем людей!",
+            "impact": {
+                "rubleCash": "neutral",
+                "stocksGrowth": "positive",
+                "stocksValue": "neutral",
+                "venture": "positive",
+                "bondsHYRuble": "negative",
+                "bondsHYCurr": "negative",
+                "bondsIGRuble": "neutral",
+                "bondsIGCurr": "neutral",
+                "bitcoin": "neutral",
+                "gold": "negative",
+                "oilFutures": "neutral",
+                "forexUSD": "neutral",
+                "reit": "positive"
+            },
+            "explanation": "IT-компании и стартапы растут на волне роботизации. Золото падает, так как люди рассчитывают на продолжение технологического бума и не боятся «кризисов». REIT (недвижимость) в плюсе, ведь спрос на офисные пространства для «робо-парков» неожиданно вырос."
+        }
+    ]
+}

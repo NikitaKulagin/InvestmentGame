@@ -1,0 +1,29 @@
+/* FinalResult.css */
+
+.final-result-container {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .final-chart {
+    margin-bottom: 15px;
+  }
+  
+  .final-button {
+    font-size: 1rem;
+    padding: 12px 24px;
+    background-color: #4089ed;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(64,137,237,0.4);
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .final-button:hover {
+    background-color: #306bbb;
+    box-shadow: 0 4px 6px rgba(64,137,237,0.5);
+  }

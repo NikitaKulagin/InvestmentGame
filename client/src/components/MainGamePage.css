@@ -1,0 +1,27 @@
+/**
+ * MainGamePage.css
+ * ----------------
+ * Добавляет современный внешний вид странице с игрой.
+ */
+
+ .main-game-container {
+    margin: 20px auto;
+    max-width: 800px;
+    background: #f7f9fc; /* Светлый фон для "карточки" */
+    border-radius: 8px;
+    padding: 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .main-game-title {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .round-indicator {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #666;
+  }

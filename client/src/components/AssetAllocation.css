@@ -1,0 +1,43 @@
+/**
+ * AssetAllocation.css
+ * --------------------
+ * Минимальный набор стилей, чтобы ползунки выглядели аккуратно.
+ */
+
+ .asset-allocation-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .asset-allocation-container h3 {
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .asset-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .asset-name {
+    flex: 1;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .allocation-slider {
+    width: 40%;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .allocation-value {
+    width: 50px;
+    text-align: right;
+    color: #555;
+  }
