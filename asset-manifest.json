@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/InvestmentGame/static/css/main.8eeeb20a.css",
-    "main.js": "/InvestmentGame/static/js/main.124e92e6.js",
+    "main.js": "/InvestmentGame/static/js/main.ac6ab2d2.js",
     "static/js/453.419a5d54.chunk.js": "/InvestmentGame/static/js/453.419a5d54.chunk.js",
     "index.html": "/InvestmentGame/index.html",
     "main.8eeeb20a.css.map": "/InvestmentGame/static/css/main.8eeeb20a.css.map",
-    "main.124e92e6.js.map": "/InvestmentGame/static/js/main.124e92e6.js.map",
+    "main.ac6ab2d2.js.map": "/InvestmentGame/static/js/main.ac6ab2d2.js.map",
     "453.419a5d54.chunk.js.map": "/InvestmentGame/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eeeb20a.css",
-    "static/js/main.124e92e6.js"
+    "static/js/main.ac6ab2d2.js"
   ]
 }
